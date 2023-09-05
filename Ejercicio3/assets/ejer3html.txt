@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="Youtube">
+        <h1>Youtube</h1>
+        <img src="assets/descarga.webp" alt="ImagenYoutube">
+        <h3>Fecha de lanzamiento: 14 de Febrero de 2005</h3>
+        <p>
+            Empresa encarga su desarrollo: Creada por Chad Hurley, Jawed Karim y Steve Chen,actualmente es desarrollada por Google 
+        </p>
+        <p>
+        Presenta una variedad de clips de peliculas, programas de televisión y videos musicales y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
+        </p>
+        <p>
+            Tecnologías implementadas en su desarrollo:
+            <ul>
+                <li>HTML5</li>
+
+            </ul> 
+        </p>
